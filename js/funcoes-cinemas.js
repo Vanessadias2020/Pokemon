@@ -11,3 +11,5 @@ function Esconder(){
  //$("#resumo").fadeIn();
   $("#resumo").fadeOut();
 }
+
+	$(".swipebox").swipebox();
